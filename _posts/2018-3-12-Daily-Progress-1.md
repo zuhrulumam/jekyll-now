@@ -7,8 +7,8 @@ Good Morning Everyone, my name is Muhammad Zuhrul Umam. I am from Indonesia and 
 
 Currently my stacks include:
 1. Backend : 
-..1. NodeJs : [SailsJs](https://sailsjs.com/), [Restify](http://restify.com/) [Beginner], [Micro](https://github.com/zeit/micro) [Beginner]
-..2. PHP : [Yii2](http://www.yiiframework.com/doc-2.0/guide-index.html) [Beginner], [Laravel](https://laravel.com/) [Beginner]
+⋅⋅1. NodeJs : [SailsJs](https://sailsjs.com/), [Restify](http://restify.com/) [Beginner], [Micro](https://github.com/zeit/micro) [Beginner]
+⋅⋅2. PHP : [Yii2](http://www.yiiframework.com/doc-2.0/guide-index.html) [Beginner], [Laravel](https://laravel.com/) [Beginner]
 2. Frontend: [Angular](https://angular.io/)
 3. Mobile Apps : [Ionic2](https://ionicframework.com/) [Beginner]
 4. Database : MongoDb, PostgreSQL, Redis
